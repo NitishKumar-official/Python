@@ -1,4 +1,5 @@
 
+         # list mutable(change possible hai) data type hai    
 
 Marks = [25,3,6,8,95,54,565,565,]
 
