@@ -11,6 +11,6 @@ student = {
 }
 
 
-print(student)
-print(student["subject"])
-print(student["subject"]["eng"])
+print(student)                     #print dictionary
+print(student["subject"])          # print nested dictionary
+print(student["subject"]["eng"])   #print nested dictionary key
