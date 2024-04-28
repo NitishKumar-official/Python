@@ -14,10 +14,10 @@ for i in seq:
 
 #method 2 
 
-# for i in range(10):      #range(stop)                stop is mandatory
+# for i in range(10):      #range(stop)                    stop is mandatory
 #     print(i)
 
-# for i in range(2,10):    #range(start,stop)          start is optional
+# for i in range(2,10):    #range(start,stop)              start is optional
 #     print(i)
 
 for i in range(2,10,2):        #range(start, stop, step)   step is optional
