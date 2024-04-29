@@ -12,8 +12,10 @@ b = 20
 sum(a,b)"""
 
 
-def add(a,b):
+#functio definition
+
+def add(a,b):     # a and b called parameters    
     return a+b
 
-total = add(a,b)
+total = add(a,b)  #funtion call and a,b are called here arguments
 print(total)
