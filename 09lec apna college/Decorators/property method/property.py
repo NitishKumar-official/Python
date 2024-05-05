@@ -19,6 +19,9 @@ print(stu1.phy)
 
 print(stu1.percentage)"""
 
+# Note:- isme jab ham phy ka marks change kiye to 
+#percentage bhi change hona chaiye tha pr nhi hua
+
 #method 1
 
 """class Student:
